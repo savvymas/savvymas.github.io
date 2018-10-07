@@ -11,3 +11,8 @@ img {
 h {
     font-weight: bold;
 }
+
+.big {
+    font-weight: bold;
+    font-size: 16px;
+}
