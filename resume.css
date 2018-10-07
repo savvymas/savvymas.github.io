@@ -1,4 +1,5 @@
-.headshot > .img {
+.body > .headshot > .img {
     width: 10%;
     height: 10%;
+    border-color: green;
 }
